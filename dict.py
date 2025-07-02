@@ -16,6 +16,6 @@ print(make_dict.get("group"))
 new_dic = {"marks": 100, "position":1}
 make_dict.update(new_dic)
 print(make_dict)
-
+# making dictionary in python
 
 
