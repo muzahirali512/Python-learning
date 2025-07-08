@@ -1,11 +1,7 @@
-
-# Print Numbers from 1 to 10
-#Write a while loop to print numbers from 1 to 10.
-count = 1
-while count <= 10:
+# count 10 to 10 using while loop
+count = 10
+while count >= 1:
     print(count)
-    count +=1
-
-
+    count-= 1
 
 
