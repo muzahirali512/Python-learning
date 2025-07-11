@@ -1,9 +1,6 @@
-num =int(input("enter a number: "))
-count = 1
-while count <= 10:
-    print(f"{num}x{count} = {num*count}")
-    count+= 1
+list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+for index in range(len(list)):
+    print(f"ind, {index}: {list[index]}")
 
-
-
+        
 
